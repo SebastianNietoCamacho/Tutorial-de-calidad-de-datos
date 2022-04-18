@@ -1,4 +1,4 @@
-# Tutorial-de-calidad-de-datos
+# TutorialCalidadDatos_ComputaciónCientífca_Bono
 
 Universidad El Bosque 🌳, Facultad de Ingeniería - Ingeniería de Sistemas ⌨.
 
